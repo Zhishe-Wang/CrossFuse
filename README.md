@@ -17,7 +17,7 @@ If this work is helpful to you, please cite it as:
 ```
 @ARTICLE{10025779
   author={Wang, Zhishe and Shao, Wenyu and Chen, Yanlin and Xu, Jiawei and Zhang, Lei},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology }, 
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={A Cross-scale Iterative Attentional Adversarial Fusion Network for Infrared and Visible Images}, 
   year={2023},
   volume={},
